@@ -1,5 +1,5 @@
-Principales Paradigmas:
-- Programación Estructurada
-- Programación Orientada a Objetos
-- Programación Funcional
-- Programación Reactiva
+﻿Principales Paradigmas:
+- Programación Estructurada paradigma de programación orientado a mejorar la claridad, calidad y tiempo de desarrollo de un programa de computadora recurriendo únicamente a subrutinas
+- Programación Orientada a Objetos es un paradigma de programación que viene a innovar la forma de obtener resultados.
+- Programación FuncionalEn informática, la programación funcional es un paradigma de programación declarativa basado en el uso de verdaderas funciones matemáticas
+- Programación Reactiva En informática, la programación reactiva es un paradigma de programación declarativo relacionado con los flujos de datos y la propagación del cambio.
